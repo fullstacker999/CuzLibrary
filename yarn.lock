@@ -684,6 +684,14 @@
   resolved "https://registry.yarnpkg.com/@types/q/-/q-1.5.1.tgz#48fd98c1561fe718b61733daed46ff115b496e18"
   integrity sha512-eqz8c/0kwNi/OEHQfvIuJVLTst3in0e7uTKeuY+WL/zfKn0xVujOTp42bS/vUUokhK5P2BppLd9JXMOMHcgbjA==
 
+"@vlad_nicky/cuz-components@^0.1.1", "@vlad_nicky/cuz-components@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@vlad_nicky/cuz-components/-/cuz-components-0.1.2.tgz#aa9c5c9a356a2361f2499ef2484aa45066cf7064"
+  integrity sha512-4NJ1h8gDBPvuXhIztPn1Q9D+JOrte5wXsa/KbpqI+yJZhwvfhH36NxPohXmr5W187rYNMeSzMz/VELhSv8m/Fw==
+  dependencies:
+    "@vlad_nicky/cuz-components" "^0.1.1"
+    vue "^2.5.21"
+
 "@vue/babel-preset-app@^3.2.2":
   version "3.2.2"
   resolved "https://registry.yarnpkg.com/@vue/babel-preset-app/-/babel-preset-app-3.2.2.tgz#05d2643e9ea3986d34bc5c4ccdcb7d96ad61b229"

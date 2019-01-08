@@ -1,0 +1,48 @@
+@import './variables';
+
+@mixin border-radius($radius: 4px) {
+    border-radius: $radius;
+}
+  
+.dim-grey {
+    color: $dim-grey;}
+.royal-blue {
+    color: $royal-blue;}
+.sea-green {
+    color: $sea-green;}
+.purple {
+    color: $purple;}
+.lime-green {
+    color: $lime-green;}
+.blue {
+    color: $blue;}
+.gold {
+    color: $gold;}
+.red {
+    color: $red;}
+
+.lavender {
+    color: $lavender;}
+.azure {
+    color: $azure;}
+.pink-lavender {
+    color: $pink-lavender;}
+.honeydew {
+    color: $honeydew;}
+.alice-blue {
+    color: $alice-blue;}
+.cornsilk {
+    color: $cornsilk;}
+.misty-rose {
+    color: $misty-rose;}
+
+.dim-grey {
+    color: $dim-grey;}
+.grey {
+    color: $grey;}
+.light-grey {
+    color: $light-grey;}
+.smoke {
+    color: $smoke;}
+.white {
+    color: $white-smoke;}
